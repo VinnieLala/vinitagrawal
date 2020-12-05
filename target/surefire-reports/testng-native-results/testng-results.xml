@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="63" started-at="2020-05-02T14:04:45Z" finished-at="2020-05-02T14:04:45Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="63" started-at="2020-05-02T14:04:45Z" finished-at="2020-05-02T14:04:45Z">
+      <class name="LearningMaven.MavenDemo.ODiTest">
+        <test-method status="PASS" signature="OneDayInternational()[pri:0, instance:LearningMaven.MavenDemo.ODiTest@327471b5]" name="OneDayInternational" duration-ms="0" started-at="2020-05-02T19:34:45Z" finished-at="2020-05-02T19:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OneDayInternational -->
+      </class> <!-- LearningMaven.MavenDemo.ODiTest -->
+      <class name="LearningMaven.MavenDemo.TestMatchTest">
+        <test-method status="PASS" signature="NinetyOvers()[pri:0, instance:LearningMaven.MavenDemo.TestMatchTest@47f6473]" name="NinetyOvers" duration-ms="0" started-at="2020-05-02T19:34:45Z" finished-at="2020-05-02T19:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NinetyOvers -->
+        <test-method status="PASS" signature="fivedays()[pri:0, instance:LearningMaven.MavenDemo.TestMatchTest@47f6473]" name="fivedays" duration-ms="0" started-at="2020-05-02T19:34:45Z" finished-at="2020-05-02T19:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fivedays -->
+      </class> <!-- LearningMaven.MavenDemo.TestMatchTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
