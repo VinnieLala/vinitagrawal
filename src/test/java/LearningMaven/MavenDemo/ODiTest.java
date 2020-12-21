@@ -9,8 +9,9 @@ public class ODiTest {
 	public void OneDayInternational() {
 		
 		System.out.println("Its a one day match");
-		
-		
+		System.out.println("Its a day night match");
+		System.out.println("it will start at 2:30 pm");
+		System.out.println("Next match in Lords");
 	}
 
 }
