@@ -9,7 +9,7 @@ public class ODiTest {
 	public void OneDayInternational() {
 		
 		System.out.println("Its a one day match");
-		System.out.println("they will play in england");
+		
 		
 	}
 
