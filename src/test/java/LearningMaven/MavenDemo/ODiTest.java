@@ -14,4 +14,13 @@ public class ODiTest {
 		System.out.println("Next match in Lords");
 	}
 
+@Test
+	
+	public void OneDayInternationalmatch() {
+		
+		System.out.println("Its a 1 day match");
+		System.out.println("Its a day day match");
+		System.out.println("it will start at 8 a.m");
+		System.out.println("Next match in Wankhede");
+	}
 }
